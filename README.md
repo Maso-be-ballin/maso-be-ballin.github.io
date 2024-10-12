@@ -1,3 +1,2 @@
-# maso-be-ballin.github.io
-# this is a site for games and stuff
-# Also works on Internet Explorer
+# This site has scratch games and other stuff
+so yea thats it
